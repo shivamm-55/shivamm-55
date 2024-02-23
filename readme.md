@@ -36,7 +36,7 @@
  <a href="https://twitter.com/Mr_shiv_444" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_shivx_444" target="_blank">
+ <a href="https://instagram.com/shivx_444" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shivamm-55" />
  </a> 
  <a href="https://www.facebook.com/profile.php?id=100011315556677" target="_blank">
