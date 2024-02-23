@@ -33,13 +33,13 @@
  <!-- <a href="https://dev.to/shivamm-55" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shivamm-55" />
  </a> -->
- <a href="https://twitter.com/_shivamm-55" target="_blank">
+ <a href="https://twitter.com/Mr_shiv_444" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/_shivx_444" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shivamm-55" />
  </a> 
- <a href="https://facebook.com/shivamm-55.dev" target="_blank">
+ <a href="https://www.facebook.com/profile.php?id=100011315556677" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="shivamm-55"  />
   </a> 
 </p>
@@ -53,7 +53,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: shivamm-55.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: shivammishra95104@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shivamm-55/shivamm-55/issues)
 
 </p>
@@ -84,14 +84,16 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <br/>
-
+<!--
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-55&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shivamm-55/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-55&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shivamm-55/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-55&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shivamm-55/web-projects)
 [![Shivam Mishra Readme](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-55&repo=shivamm-55&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shivamm-55/shivamm-55)
+-->
 
 <p align="left">
   <a href="https://github.com/shivamm-55?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -120,4 +122,4 @@
 </a>
 
 
-![Shivam Mishra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamm-55&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shivam Mishra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamm-55&custom_title=Shivam%20Mishra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
