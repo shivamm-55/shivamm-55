@@ -2,8 +2,8 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=shivamm-55&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/018ddbb1-982e-4cb5-a4fc-484eeb4fda6f.svg)](https://wakatime.com/@018ddbb1-982e-4cb5-a4fc-484eeb4fda6f)
+<!--
+[![wakatime](https://wakatime.com/badge/user/018ddbb1-982e-4cb5-a4fc-484eeb4fda6f.svg)](https://wakatime.com/@018ddbb1-982e-4cb5-a4fc-484eeb4fda6f) -->
 
 <!-- Intro  -->
 <h3 align="center">
